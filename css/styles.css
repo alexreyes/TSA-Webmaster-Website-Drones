@@ -4,11 +4,13 @@ body {
   color: #5a5a5a;
 }
 a {
-  color:#FFF;
+  color:#888888;
+  
 }
 a:hover {
-  color: #FFF;
+  color: #FFA500;
 }
+
 a:link {
     text-decoration: none;
 }
